@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'EB Garamond';
+    src: local('EB Garamond Medium'),
+        local('EBGaramond Medium'),
+        local('EBGaramond-Medium'),
+        local('EB Garamond-Medium'),  
+        local('EB-Garamond-Medium'),
+        url('ebgaramondmedium.ttf') format('ttf'),
+        url('ebgaramondmedium.woff') format('woff'),
+        url('ebgaramondmedium.woff2') format('woff2');
+    font-weight: 500;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: local('EB Garamond Regular'),
+        local('EBGaramond Regular'),
+        local('EBGaramond-Regular'),
+        local('EB Garamond-Regular'),  
+        local('EB-Garamond-Regular'),
+        url('ebgaramondregular.ttf') format('ttf'),
+        url('ebgaramondregular.woff') format('woff'),
+        url('ebgaramondregular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EB Garamond';
+    src: local('EB Garamond Regular'),
+        local('EBGaramond Regular'),
+        local('EBGaramond-Regular'),
+        local('EB Garamond-Regular'),  
+        local('EB-Garamond-Regular'),
+        url('ebgaramondregular.ttf') format('ttf'),
+        url('ebgaramondregular.woff') format('woff'),
+        url('ebgaramondregular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Regular'),
+        local('Inter-Regular'),
+        url('interregular.ttf') format('ttf'),
+        url('interregular.woff') format('woff'),
+        url('interregular.woff2') format('woff2');
+    font-weight: 400;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter';
+    src: local('Inter Bold'),
+        local('Inter-Bold'),
+        url('interbold.ttf') format('ttf'),
+        url('interbold.woff') format('woff'),
+        url('interbold.woff2') format('woff2');
+    font-weight: 700;
+    font-display: swap;
+}
